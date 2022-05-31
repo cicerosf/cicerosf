@@ -1,3 +1,4 @@
+*****Experiencing the experiential, experimenting, trying... and having fun :D
 - 👋 Hi, I’m @cicerosf, a c# back-end developer, father, yoga teacher, herbal medicine man and much more
 - 👀 I’m interested in life
 - 🌱 I’m currently remembering, learning and practing coding again, after few years of traveling around different dimensions an realms
